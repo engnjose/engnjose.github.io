@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Nahuel Jose
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Nahuel
+last_name: Jose
 
 # Pronouns (optional)
 pronouns: he/him
@@ -27,23 +27,23 @@ role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Industrial Robotic Facility - Italian Institute of Technology
+    url: https://inbot.iit.it/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:Nahuel.Jose@meta.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://twitter.com/NahuelAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/NahuelJoseai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/NahuelJoseai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=NahuelJose
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
@@ -85,8 +85,8 @@ education:
 
 work:
   - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+    company_name: Industrial Robotic Facility - Italian Institute of Technology
+    company_url: 'https://inbot.iit.it/'
     icon: ''
     date_start: 2020-01-01
     date_end: ''
@@ -169,4 +169,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am a dedicated and innovative Mechatronics Engineer with a strong academic background and over 5 years of industry experience. I graduated with honors and earned an international Master double diploma from Argentinian and French universities, enhancing my skills in machine learning and AI.
+Currently, I am pursuing a Ph.D. at the Department of Information Engineering (DII) of UNIVPM, where I am an integral member of the Vision Robotics and Artificial Intelligence (VRAI) research group. My Ph.D. research, conducted in collaboration with the Industrial Robotics Facility at the Italian Institute of Technology (IIT), focuses on developing advanced Robotics and Computer Vision techniques for autonomous inspection and monitoring.
+My academic and industry experience provides a robust understanding of AI and Robotics, enabling me to propose innovative solutions and contribute effectively to teams. I stay engaged with the latest advancements, ensuring my solutions are high-performing and ready for industry transfer.
