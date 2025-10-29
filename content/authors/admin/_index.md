@@ -54,52 +54,44 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: Ph.D. Student in Computer Vision & Robotics
+    institution: VRAI - UNIVPM
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2024-11-01
+    date_end: 2027-10-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Visual Servoing for Autonomous I&M_. Supervised by Prof. Mancini and Dr. Cannella
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MS Mechatronics
+    institution: ENIB - France
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2015-09-01
+    date_end: 2017-05-31
     summary: |
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
+  - position: AI Research Scientist
     company_name: Industrial Robotic Facility - Italian Institute of Technology
     company_url: 'https://inbot.iit.it/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2023-09-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Leading research on Robotic AI systems.
+  - position: ML Research Engineer
+    company_name: Dialpad
+    company_url: 'https://dialpad.com/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2022-03-01
+    date_end: 2023-09-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Led the product analytics squad.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -139,34 +131,38 @@ languages:
   - name: English
     percent: 100
   - name: Spanish
-    percent: 50
+    percent: 100
+  - name: French
+    percent: 80
+  - name: Italian
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+  # - title: Best Paper Award
+  #   url: https://neurips.cc/
+  #   date: '2022-12-01'
+  #   awarder: NeurIPS
+  #   icon: hero/trophy
+  #   summary: |
+  #     Awarded for groundbreaking work on efficient training of large models.
+  # - title: AI Innovation Grant
+  #   url: https://www.nsf.gov/
+  #   date: '2021-06-15'
+  #   awarder: National Science Foundation
+  #   icon: hero/currency-dollar
+  #   summary: |
+  #     $500,000 grant for research in ethical AI development.
+  # - title: Outstanding PhD Thesis
+  #   url: https://www.stanford.edu/
+  #   date: '2019-06-30'
+  #   awarder: Stanford University
+  #   icon: hero/academic-cap
+  #   summary: |
+  #     Recognized for contributions to scaling laws in deep learning.
 ---
 
 I am a dedicated and innovative Mechatronics Engineer with a strong academic background and over 5 years of industry experience. I graduated with honors and earned an international Master double diploma from Argentinian and French universities, enhancing my skills in machine learning and AI.
